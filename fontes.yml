@@ -7,9 +7,17 @@
 fontes:
   - nome: "Cadastro manual"
     tipo: manual
-    arquivo: dados/fontes_manuais.csv       # cursos que alguém cola à mão
+    arquivo: dados/fontes_manuais.csv       # cursos conferidos: Lúmina/UFRGS e Sebrae (23/11/2026)
     instituicao_padrao: ""
     ativo: true
+
+  # Cursos da EV.G cujos endereços vêm de listas de outras instituições (UFES 2022, UFMS 2024 e outras).
+  # Abra cada link de dados/fontes_evg_a_conferir.csv no navegador; se estiver certo, troque para  ativo: true.
+  - nome: "EV.G (a conferir)"
+    tipo: manual
+    arquivo: dados/fontes_evg_a_conferir.csv
+    instituicao_padrao: "Enap - Escola Virtual de Governo (EV.G)"
+    ativo: false
 
   # --- EXEMPLOS: desativados até alguém conferir o endereço real --------------
   - nome: "Exemplo de feed RSS"

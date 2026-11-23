@@ -3,8 +3,8 @@
 # Para transferir ao PMG/TI, troque estes valores (ver TRANSFERENCIA.md).
 # ============================================================================
 operador: "Taís Ramos (conta pessoal, uso didático)"     # quem responde pelo robô
-contato: "troque-pelo-email-do-responsavel@ufrgs.br"     # aparece no User-Agent: os sites sabem quem acessa
-user_agent: "AcompanhaCatalogo/1.0 (+https://github.com/SEU-USUARIO/acompanha-catalogo)"
+contato: "00278671@ufrgs.br"     # aparece no User-Agent: os sites sabem quem acessa
+user_agent: "AcompanhaCatalogo/1.0 (+https://github.com/lucascarvalhors/acompanha-catalogo)"
 intervalo_entre_requisicoes_s: 1.0     # educação com os sites de origem
 tempo_limite_s: 20
 falhas_para_quebrado: 2                # link só é "quebrado" após N verificações seguidas com falha

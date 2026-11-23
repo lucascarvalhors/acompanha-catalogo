@@ -1,18 +1,200 @@
 {
   "_leia": "Palavras-chave usadas só para SUGERIR competências ao especialista. Nunca decidem nada. Edite à vontade.",
-  "1":  {"nome": "Projetar e otimizar sistemas", "termos": ["projeto de processos", "otimização", "processos produtivos", "melhoria de processos", "lean", "produtividade"]},
-  "2":  {"nome": "Visão sistêmica", "termos": ["visão sistêmica", "pensamento sistêmico", "sistemas produtivos", "cadeia de suprimentos", "gestão de operações"]},
-  "3":  {"nome": "Matemática e estatística", "termos": ["estatística", "matemática", "análise de dados", "probabilidade", "excel", "ciência de dados"]},
-  "4":  {"nome": "Inovar e empreender", "termos": ["empreendedorismo", "inovação", "startup", "modelo de negócio", "criatividade", "design thinking"]},
-  "5":  {"nome": "Novas tecnologias", "termos": ["indústria 4.0", "inteligência artificial", "transformação digital", "automação", "tecnologia", "programação"]},
-  "6":  {"nome": "Produtos e serviços de valor", "termos": ["desenvolvimento de produto", "serviços", "experiência do cliente", "proposta de valor", "ux"]},
-  "7":  {"nome": "Responsabilidade social", "termos": ["responsabilidade social", "diversidade", "inclusão", "direitos humanos", "cidadania"]},
-  "8":  {"nome": "Responsabilidade ambiental", "termos": ["sustentabilidade", "meio ambiente", "ambiental", "economia circular", "esg", "resíduos"]},
-  "9":  {"nome": "Visão econômico-financeira", "termos": ["finanças", "custos", "orçamento", "contabilidade", "investimento", "gestão financeira"]},
-  "10": {"nome": "Orientação ao mercado", "termos": ["marketing", "mercado", "vendas", "estratégia", "planejamento estratégico", "cliente"]},
-  "11": {"nome": "Problemas da sociedade", "termos": ["políticas públicas", "inovação social", "impacto social", "comunidade", "extensão"]},
-  "12": {"nome": "Ética", "termos": ["ética", "integridade", "compliance", "conduta", "lgpd"]},
-  "13": {"nome": "Liderança e equipe", "termos": ["liderança", "trabalho em equipe", "gestão de pessoas", "conflitos", "negociação", "soft skills"]},
-  "14": {"nome": "Comunicação", "termos": ["comunicação", "oratória", "apresentação", "escrita", "redação", "feedback"]},
-  "15": {"nome": "Aprender continuamente", "termos": ["aprendizagem", "autodesenvolvimento", "gestão do tempo", "produtividade pessoal", "inteligência emocional", "carreira"]}
+  "1": {
+    "nome": "Projetar e otimizar sistemas",
+    "termos": [
+      "projeto de processos",
+      "otimização",
+      "processos produtivos",
+      "melhoria de processos",
+      "lean",
+      "produtividade",
+      "resolução de problemas",
+      "gestão de projetos",
+      "processos"
+    ]
+  },
+  "2": {
+    "nome": "Visão sistêmica",
+    "termos": [
+      "visão sistêmica",
+      "pensamento sistêmico",
+      "sistemas produtivos",
+      "cadeia de suprimentos",
+      "gestão de operações",
+      "estratégia organizacional",
+      "balanced scorecard",
+      "bsc"
+    ]
+  },
+  "3": {
+    "nome": "Matemática e estatística",
+    "termos": [
+      "estatística",
+      "matemática",
+      "análise de dados",
+      "probabilidade",
+      "excel",
+      "ciência de dados",
+      "cálculo",
+      "limites",
+      "funções",
+      "dados",
+      "tratamento de dados",
+      "software r"
+    ]
+  },
+  "4": {
+    "nome": "Inovar e empreender",
+    "termos": [
+      "empreendedorismo",
+      "inovação",
+      "startup",
+      "modelo de negócio",
+      "criatividade",
+      "design thinking",
+      "empreender",
+      "empreendedor",
+      "empreendedores",
+      "inovar"
+    ]
+  },
+  "5": {
+    "nome": "Novas tecnologias",
+    "termos": [
+      "indústria 4.0",
+      "inteligência artificial",
+      "transformação digital",
+      "automação",
+      "tecnologia",
+      "programação"
+    ]
+  },
+  "6": {
+    "nome": "Produtos e serviços de valor",
+    "termos": [
+      "desenvolvimento de produto",
+      "serviços",
+      "experiência do cliente",
+      "proposta de valor",
+      "ux",
+      "atendimento",
+      "atendimento ao cliente",
+      "customer success"
+    ]
+  },
+  "7": {
+    "nome": "Responsabilidade social",
+    "termos": [
+      "responsabilidade social",
+      "diversidade",
+      "inclusão",
+      "direitos humanos",
+      "cidadania",
+      "pessoas com deficiência",
+      "pcd",
+      "neurodiversidade",
+      "acessibilidade",
+      "inclusivo",
+      "racismo"
+    ]
+  },
+  "8": {
+    "nome": "Responsabilidade ambiental",
+    "termos": [
+      "sustentabilidade",
+      "meio ambiente",
+      "ambiental",
+      "economia circular",
+      "esg",
+      "resíduos"
+    ]
+  },
+  "9": {
+    "nome": "Visão econômico-financeira",
+    "termos": [
+      "finanças",
+      "custos",
+      "orçamento",
+      "contabilidade",
+      "investimento",
+      "gestão financeira"
+    ]
+  },
+  "10": {
+    "nome": "Orientação ao mercado",
+    "termos": [
+      "marketing",
+      "mercado",
+      "vendas",
+      "estratégia",
+      "planejamento estratégico",
+      "cliente"
+    ]
+  },
+  "11": {
+    "nome": "Problemas da sociedade",
+    "termos": [
+      "políticas públicas",
+      "inovação social",
+      "impacto social",
+      "comunidade",
+      "mudança social"
+    ]
+  },
+  "12": {
+    "nome": "Ética",
+    "termos": [
+      "ética",
+      "integridade",
+      "compliance",
+      "conduta",
+      "lgpd",
+      "ética profissional",
+      "interesse público"
+    ]
+  },
+  "13": {
+    "nome": "Liderança e equipe",
+    "termos": [
+      "liderança",
+      "trabalho em equipe",
+      "gestão de pessoas",
+      "conflitos",
+      "negociação",
+      "soft skills",
+      "liderar",
+      "líder",
+      "gestão de conflitos"
+    ]
+  },
+  "14": {
+    "nome": "Comunicação",
+    "termos": [
+      "comunicação",
+      "oratória",
+      "apresentação",
+      "escrita",
+      "redação",
+      "feedback",
+      "apresentações",
+      "apresentação oral",
+      "slides",
+      "comunicação não violenta"
+    ]
+  },
+  "15": {
+    "nome": "Aprender continuamente",
+    "termos": [
+      "aprendizagem",
+      "autodesenvolvimento",
+      "gestão do tempo",
+      "produtividade pessoal",
+      "inteligência emocional",
+      "carreira",
+      "autoconhecimento",
+      "gestão pessoal",
+      "emoções"
+    ]
+  }
 }
