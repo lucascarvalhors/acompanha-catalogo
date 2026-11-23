@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catálogo de cursos abertos · verificador de links · aCOMPanha</title>
+<style>
+  :root { --bg:#F6F7FB; --card:#fff; --ink:#14172B; --ink2:#4A5068; --mute:#7A8096; --line:#E3E6EF; --pri:#8E3A8C; --ok:#1F8A5B; --warn:#C27A0E; --bad:#C8262E; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#12131A; --card:#1C1E28; --ink:#EEF0F6; --ink2:#C4C8D6; --mute:#8E93A6; --line:#2C2F3D; --pri:#D08BCE; } }
+  * { box-sizing: border-box; } body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; }
+  main { max-width:1100px; margin:0 auto; padding:24px 16px 48px; }
+  h1 { font-size:26px; margin:0 0 4px; } .sub { color:var(--ink2); margin:0 0 18px; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; margin:0 0 16px; }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px 14px; }
+  .stat b { display:block; font-size:26px; } .stat span { color:var(--ink2); font-size:13px; }
+  .barra { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 14px; }
+  .barra input, .barra select { height:38px; border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:10px; padding:0 10px; font:inherit; }
+  .barra input { flex:1; min-width:220px; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; }
+  th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; font-size:14px; }
+  th { color:var(--ink2); font-weight:600; background:color-mix(in srgb, var(--card) 85%, var(--line)); }
+  td a { color:var(--pri); } .mini { color:var(--mute); font-size:12.5px; }
+  .est { display:inline-block; padding:2px 9px; border-radius:999px; font-size:12px; font-weight:600; color:#fff; white-space:nowrap; }
+  .ativo{background:var(--ok)} .instavel{background:var(--warn)} .quebrado{background:var(--bad)} .nao_verificado{background:var(--mute)}
+  .wrap { overflow-x:auto; } footer { color:var(--mute); font-size:12.5px; margin-top:18px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Catálogo de cursos abertos</h1>
+  <p class="sub">Coletado e verificado automaticamente pelo robô do aCOMPanha. A ligação de cada curso às competências é feita por um especialista, na plataforma — não aqui.</p>
+  <div class="stats" id="stats"></div>
+  <div class="barra">
+    <input id="busca" type="search" placeholder="Buscar por título, instituição ou descrição" aria-label="Buscar">
+    <select id="fonte" aria-label="Filtrar por fonte"><option value="">Todas as fontes</option></select>
+    <select id="estado" aria-label="Filtrar por estado do link"><option value="">Todos os links</option><option value="ativo">Ativos</option><option value="instavel">Instáveis</option><option value="quebrado">Quebrados</option></select>
+  </div>
+  <div class="wrap"><table><thead><tr><th>Curso</th><th>Fonte</th><th>Link</th><th>Verificado em</th></tr></thead><tbody id="lista"><tr><td colspan="4">Carregando…</td></tr></tbody></table></div>
+  <footer id="rodape"></footer>
+</main>
+<script>
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const data = iso => iso ? new Date(iso).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short' }) : '—';
+const ROT = { ativo: 'ativo', instavel: 'instável', quebrado: 'quebrado', nao_verificado: 'não verificado' };
+let ITENS = [];
+fetch('catalogo.json', { cache: 'no-store' }).then(r => r.json()).then(cat => {
+  ITENS = cat.itens.filter(i => !i.ausente_da_fonte);
+  const n = e => ITENS.filter(i => (i.link?.estado || 'nao_verificado') === e).length;
+  document.getElementById('stats').innerHTML = [
+    ['Total de cursos', ITENS.length], ['Links ativos', n('ativo')], ['Instáveis', n('instavel')], ['Quebrados', n('quebrado')],
+    ['Sem sugestão de competência', ITENS.filter(i => !(i.sugestoes_robo || []).length).length]
+  ].map(([t, v]) => `<div class="stat"><b>${v}</b><span>${t}</span></div>`).join('');
+  document.getElementById('fonte').innerHTML += [...new Set(ITENS.map(i => i.fonte))].sort().map(f => `<option>${esc(f)}</option>`).join('');
+  const erros = cat.fontes.filter(f => f.erro).map(f => f.nome);
+  document.getElementById('rodape').innerHTML = `Coleta: ${data(cat.gerado_em)} · Links verificados: ${data(cat.links_verificados_em)} · Operador: ${esc(cat.operador)}`
+    + (erros.length ? `<br>Fontes com erro na última coleta: ${erros.map(esc).join(', ')}` : '');
+  desenhar();
+}).catch(() => { document.getElementById('lista').innerHTML = '<tr><td colspan="4">Catálogo ainda não gerado. Rode a ação “Coletar catálogo”.</td></tr>'; });
+function desenhar() {
+  const q = document.getElementById('busca').value.toLowerCase(), f = document.getElementById('fonte').value, e = document.getElementById('estado').value;
+  const L = ITENS.filter(i => (!f || i.fonte === f) && (!e || i.link?.estado === e) && (!q || `${i.titulo} ${i.instituicao} ${i.descricao}`.toLowerCase().includes(q)));
+  document.getElementById('lista').innerHTML = L.map(i => `<tr>
+    <td><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.titulo)}</a><div class="mini">${esc(i.instituicao)}${i.carga_horaria ? ' · ' + esc(i.carga_horaria) : ''}</div></td>
+    <td>${esc(i.fonte)}</td>
+    <td><span class="est ${i.link?.estado || 'nao_verificado'}">${ROT[i.link?.estado || 'nao_verificado']}</span>${i.link?.http ? `<div class="mini">HTTP ${i.link.http}</div>` : ''}</td>
+    <td class="mini">${data(i.link?.verificado_em)}</td></tr>`).join('') || '<tr><td colspan="4">Nenhum curso com esses filtros.</td></tr>';
+}
+['busca', 'fonte', 'estado'].forEach(id => document.getElementById(id).addEventListener('input', desenhar));
+</script>
+</body>
+</html>

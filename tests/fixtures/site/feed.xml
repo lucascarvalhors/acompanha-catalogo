@@ -1,0 +1,4 @@
+<?xml version="1.0"?><rss version="2.0"><channel><title>Cursos</title>
+<item><title>Liderança e trabalho em equipe</title><link>http://localhost:8765/curso/lideranca.html?utm_source=feed</link><description>Curso gratuito sobre liderança, gestão de pessoas e negociação de conflitos.</description></item>
+<item><title>Comunicação e oratória</title><link>http://localhost:8765/curso/comunicacao.html</link><description><![CDATA[<p>Apresentação em público e <b>escrita</b> profissional.</p>]]></description></item>
+</channel></rss>

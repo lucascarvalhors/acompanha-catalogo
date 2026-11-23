@@ -1,0 +1,6 @@
+fontes:
+  - {nome: "Teste manual", tipo: manual, arquivo: tests/fixtures/manuais_teste.csv, instituicao_padrao: "", ativo: true}
+  - {nome: "Teste RSS", tipo: rss, url: "http://localhost:8765/feed.xml", instituicao_padrao: "Escola RSS", ativo: true}
+  - {nome: "Teste sitemap", tipo: sitemap, url: "http://localhost:8765/sitemap.xml", filtro_url: "/curso", instituicao_padrao: "Escola Sitemap", ativo: true}
+  - {nome: "Teste HTML", tipo: html, url: "http://localhost:8765/cursos.html", seletor_item: ".card-curso", seletor_titulo: "h3", seletor_link: "a", seletor_descricao: "p", instituicao_padrao: "Escola HTML", ativo: true}
+  - {nome: "Fonte fora do ar", tipo: rss, url: "http://localhost:8799/feed.xml", instituicao_padrao: "X", ativo: true}

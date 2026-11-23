@@ -1,0 +1,36 @@
+# ============================================================================
+# fontes.yml — de onde o robô coleta. Editável sem programar.
+# Tipos: manual (planilha), rss, sitemap, html.
+# Uma fonte só é lida com  ativo: true.  Antes de ativar, confira no navegador
+# se o endereço existe e se os seletores batem com a página (README, passo 4).
+# ============================================================================
+fontes:
+  - nome: "Cadastro manual"
+    tipo: manual
+    arquivo: dados/fontes_manuais.csv       # cursos que alguém cola à mão
+    instituicao_padrao: ""
+    ativo: true
+
+  # --- EXEMPLOS: desativados até alguém conferir o endereço real --------------
+  - nome: "Exemplo de feed RSS"
+    tipo: rss
+    url: "https://exemplo.org/cursos/feed.xml"
+    instituicao_padrao: "Instituição do feed"
+    ativo: false
+
+  - nome: "Exemplo de sitemap"
+    tipo: sitemap
+    url: "https://exemplo.org/sitemap.xml"
+    filtro_url: "/curso/"                    # só endereços que contêm este trecho
+    instituicao_padrao: "Instituição do sitemap"
+    ativo: false
+
+  - nome: "Exemplo de página de listagem"
+    tipo: html
+    url: "https://exemplo.org/cursos"
+    seletor_item: ".card-curso"               # cada curso na página
+    seletor_titulo: "h3"
+    seletor_link: "a"
+    seletor_descricao: "p"
+    instituicao_padrao: "Instituição da página"
+    ativo: false

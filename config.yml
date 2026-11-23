@@ -1,0 +1,12 @@
+# ============================================================================
+# config.yml — tudo que identifica QUEM opera o robô fica aqui.
+# Para transferir ao PMG/TI, troque estes valores (ver TRANSFERENCIA.md).
+# ============================================================================
+operador: "Taís Ramos (conta pessoal, uso didático)"     # quem responde pelo robô
+contato: "troque-pelo-email-do-responsavel@ufrgs.br"     # aparece no User-Agent: os sites sabem quem acessa
+user_agent: "AcompanhaCatalogo/1.0 (+https://github.com/SEU-USUARIO/acompanha-catalogo)"
+intervalo_entre_requisicoes_s: 1.0     # educação com os sites de origem
+tempo_limite_s: 20
+falhas_para_quebrado: 2                # link só é "quebrado" após N verificações seguidas com falha
+semanas_ausente_para_arquivar: 8       # item que sumiu da fonte por N semanas sai do catálogo ativo
+max_paginas_por_fonte: 200
