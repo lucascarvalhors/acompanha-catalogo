@@ -1,15 +1,735 @@
 {
- "gerado_em": "2026-11-24T00:15:24+00:00",
+ "gerado_em": "2026-11-24T00:19:47+00:00",
  "fontes": [
   {
    "nome": "Cadastro manual",
    "tipo": "manual",
-   "itens": 0,
+   "itens": 20,
    "erro": null,
-   "lido_em": "2026-11-24T00:15:24+00:00"
+   "lido_em": "2026-11-24T00:19:42+00:00"
   }
  ],
- "itens": [],
+ "itens": [
+  {
+   "id": "cb55e77172bf",
+   "titulo": "Aprender a empreender",
+   "url": "https://loja.sebrae.com.br/aprender-a-empreender-1-372000001028",
+   "descricao": "Características do comportamento empreendedor e conceitos básicos de mercado, marketing e finanças aplicados ao dia a dia de um negócio. Curso online gratuito.",
+   "carga_horaria": "16 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "marketing",
+      "mercado"
+     ],
+     "pontos": 2
+    },
+    {
+     "competencia": 9,
+     "nome": "Visão econômico-financeira",
+     "termos": [
+      "finanças"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "b7410cd74706",
+   "titulo": "Atendimento ao cliente",
+   "url": "https://loja.sebrae.com.br/atendimento-ao-cliente-1-372000017766",
+   "descricao": "Curso online gratuito do Sebrae na área Mercado e vendas.",
+   "carga_horaria": "8 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "mercado",
+      "vendas",
+      "cliente"
+     ],
+     "pontos": 4
+    }
+   ]
+  },
+  {
+   "id": "8bf21ea58a2e",
+   "titulo": "Atendimento inclusivo PCD e neurodiversidade",
+   "url": "https://loja.sebrae.com.br/atendimento-inclusivo-pcd-e-neurodiversidade-1-a0jv2000003uisfmaa",
+   "descricao": "Curso online gratuito do Sebrae sobre atendimento inclusivo a pessoas com deficiência e neurodivergentes.",
+   "carga_horaria": "3 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
+  },
+  {
+   "id": "b903571832d3",
+   "titulo": "Como definir preço de venda",
+   "url": "https://loja.sebrae.com.br/como-definir-o-preco-de-venda-1-371440103446",
+   "descricao": "Curso online gratuito do Sebrae na área Finanças.",
+   "carga_horaria": "6 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 9,
+     "nome": "Visão econômico-financeira",
+     "termos": [
+      "finanças"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "2f2b0e6cfdd7",
+   "titulo": "Comunicação no processo de vendas para pequenos negócios",
+   "url": "https://loja.sebrae.com.br/comunicac-o-no-processo-de-vendas-para-pequenos-negocios-1-372000053300",
+   "descricao": "Curso online gratuito do Sebrae na área Mercado e vendas.",
+   "carga_horaria": "7 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "mercado",
+      "vendas"
+     ],
+     "pontos": 4
+    },
+    {
+     "competencia": 14,
+     "nome": "Comunicação",
+     "termos": [
+      "comunicação"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
+   "id": "666b94948c49",
+   "titulo": "Curso de Exportação",
+   "url": "https://loja.sebrae.com.br/curso-de-exportac-o-1-a0jbl000001h2u2uaa",
+   "descricao": "Curso online gratuito do Sebrae na área Mercado e vendas.",
+   "carga_horaria": "20 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "mercado",
+      "vendas"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
+   "id": "db0f89067c76",
+   "titulo": "Customer success - Como conquistar e manter clientes",
+   "url": "https://loja.sebrae.com.br/customer-success-como-conquistar-e-manter-clientes-1-372000017996",
+   "descricao": "Curso online gratuito do Sebrae na área Marketing e vendas.",
+   "carga_horaria": "10 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "marketing",
+      "vendas"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
+   "id": "ec06c83bca8c",
+   "titulo": "Educação Ambiental - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=552",
+   "descricao": "Projeto de extensão da Faculdade de Educação da UFRGS sobre Educação Ambiental e futuro sustentável, em quatro módulos com vídeos e atividades avaliativas. Certificado de 15 h.",
+   "carga_horaria": "15 h",
+   "instituicao": "UFRGS - Lúmina (Faculdade de Educação)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 8,
+     "nome": "Responsabilidade ambiental",
+     "termos": [
+      "ambiental"
+     ],
+     "pontos": 3
+    },
+    {
+     "competencia": 11,
+     "nome": "Problemas da sociedade",
+     "termos": [
+      "extensão"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "f32f228969de",
+   "titulo": "Gestão de pessoas",
+   "url": "https://loja.sebrae.com.br/gest-o-de-pessoas-1-371440100237",
+   "descricao": "Curso online gratuito do Sebrae na área Pessoas.",
+   "carga_horaria": "8 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 13,
+     "nome": "Liderança e equipe",
+     "termos": [
+      "gestão de pessoas"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
+   "id": "d06492675129",
+   "titulo": "Gestão financeira",
+   "url": "https://loja.sebrae.com.br/gest-o-financeira-1-372000026927",
+   "descricao": "Curso online gratuito do Sebrae na área Finanças.",
+   "carga_horaria": "10 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 9,
+     "nome": "Visão econômico-financeira",
+     "termos": [
+      "finanças",
+      "gestão financeira"
+     ],
+     "pontos": 3
+    }
+   ]
+  },
+  {
+   "id": "45cbf1355f6d",
+   "titulo": "Inovação e empreendedorismo em indústrias criativas - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=639",
+   "descricao": "Curso autoinstrucional do NECCULT-UFRGS com o Ministério da Cultura sobre como empreender nas indústrias criativas, inovação tecnológica e desafios do empreendedor. Sem tutoria. A página informa que esta edição não oferece certificado.",
+   "carga_horaria": "",
+   "instituicao": "UFRGS - Lúmina (NECCULT)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 4,
+     "nome": "Inovar e empreender",
+     "termos": [
+      "empreendedorismo",
+      "inovação"
+     ],
+     "pontos": 5
+    }
+   ]
+  },
+  {
+   "id": "db8813972606",
+   "titulo": "Inovação, criatividade e mudança social - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=604",
+   "descricao": "Abordagem da inovação ligada à mudança social: definição de inovação, papel da criatividade e dos atores, relações inovadoras e contextos socioinstitucionais. Autoinstrucional, sem tutoria.",
+   "carga_horaria": "",
+   "instituicao": "UFRGS - Lúmina",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 4,
+     "nome": "Inovar e empreender",
+     "termos": [
+      "inovação",
+      "criatividade"
+     ],
+     "pontos": 7
+    }
+   ]
+  },
+  {
+   "id": "d0c4b5e7eab5",
+   "titulo": "Introdução à Programação em R",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=661",
+   "descricao": "Noções de programação em R: o ambiente R, blocos fundamentais e estruturas de controle de fluxo. Com certificado.",
+   "carga_horaria": "",
+   "instituicao": "UFRGS - Lúmina",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 5,
+     "nome": "Novas tecnologias",
+     "termos": [
+      "programação"
+     ],
+     "pontos": 3
+    }
+   ]
+  },
+  {
+   "id": "4d315ed4f970",
+   "titulo": "Introdução ao estudo dos limites - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=583",
+   "descricao": "Primeira parte de Cálculo: limites e continuidade de funções reais, em 20 videoaulas com questionários. Atestado de participação.",
+   "carga_horaria": "",
+   "instituicao": "UFRGS - Lúmina",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
+  },
+  {
+   "id": "24c2921beea8",
+   "titulo": "Liderar para crescer",
+   "url": "https://loja.sebrae.com.br/liderar-para-crescer-a0jbl000001kialuay",
+   "descricao": "Curso autoinstrucional gratuito do Sebrae na área Pessoas, feito pelo WhatsApp.",
+   "carga_horaria": "10 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:46+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:46+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
+  },
+  {
+   "id": "5458dff38225",
+   "titulo": "Marketing digital e redes sociais",
+   "url": "https://loja.sebrae.com.br/marketing-digital-e-redes-sociais-1-372000114127",
+   "descricao": "Curso online gratuito do Sebrae na área Mercado e vendas.",
+   "carga_horaria": "7 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "marketing",
+      "mercado",
+      "vendas"
+     ],
+     "pontos": 4
+    }
+   ]
+  },
+  {
+   "id": "b1b1b99703f9",
+   "titulo": "Modelagem financeira para startups",
+   "url": "https://loja.sebrae.com.br/modelagem-financeira-para-startups-1-372000019235",
+   "descricao": "Curso online gratuito do Sebrae na área Inovação.",
+   "carga_horaria": "2 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:45+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:45+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 4,
+     "nome": "Inovar e empreender",
+     "termos": [
+      "inovação"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "caaee741feeb",
+   "titulo": "Planejamento financeiro para acesso ao crédito",
+   "url": "https://loja.sebrae.com.br/planejamento-financeiro-para-acesso-ao-credito-1-372000113579",
+   "descricao": "Curso online gratuito do Sebrae na área Finanças.",
+   "carga_horaria": "10 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:46+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:46+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 9,
+     "nome": "Visão econômico-financeira",
+     "termos": [
+      "finanças"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "7643d3182a18",
+   "titulo": "Slide em Ação - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=531",
+   "descricao": "Orientações para construir apresentações visuais organizadas, em cinco módulos com vídeos e avaliação final. Certificado de extensão.",
+   "carga_horaria": "8 h",
+   "instituicao": "UFRGS - Lúmina",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:45+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:45+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 11,
+     "nome": "Problemas da sociedade",
+     "termos": [
+      "extensão"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "aef20b54b20a",
+   "titulo": "Tratamento de Dados com R - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=662",
+   "descricao": "Introdução ao tratamento e à manipulação de dados no software R, para quem não sabe programar. Com certificado.",
+   "carga_horaria": "",
+   "instituicao": "UFRGS - Lúmina",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
+  }
+ ],
  "operador": "Taís Ramos (conta pessoal, uso didático)",
- "links_verificados_em": "2026-11-24T00:15:24+00:00"
+ "links_verificados_em": "2026-11-24T00:19:46+00:00"
 }
