@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T02:58:57+00:00",
+ "gerado_em": "2026-11-24T02:59:11+00:00",
  "fontes": [
   {
    "nome": "Cadastro manual",
@@ -25,11 +25,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:52+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:52+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -61,7 +66,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:08+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -71,6 +76,11 @@
      },
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:08+00:00",
       "ok": true,
       "http": 200
      }
@@ -120,7 +130,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -130,6 +140,11 @@
      },
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -172,7 +187,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:08+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -182,6 +197,11 @@
      },
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:08+00:00",
       "ok": true,
       "http": 200
      }
@@ -224,11 +244,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:52+00:00",
+    "verificado_em": "2026-11-24T02:59:08+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:52+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:08+00:00",
       "ok": true,
       "http": 200
      }
@@ -276,7 +301,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:08+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -286,6 +311,11 @@
      },
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:08+00:00",
       "ok": true,
       "http": 200
      }
@@ -317,11 +347,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:08+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:08+00:00",
       "ok": true,
       "http": 200
      }
@@ -344,11 +379,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -380,11 +420,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -417,11 +462,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:52+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:52+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -456,11 +506,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -492,11 +547,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -537,7 +597,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -547,6 +607,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -587,7 +652,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -597,6 +662,11 @@
      },
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -629,7 +699,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -639,6 +709,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -679,7 +754,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -689,6 +764,11 @@
      },
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -720,11 +800,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -757,11 +842,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -793,11 +883,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -830,11 +925,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -857,11 +957,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -884,7 +989,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -894,6 +999,11 @@
      },
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -925,7 +1035,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:11+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -935,6 +1045,11 @@
      },
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:11+00:00",
       "ok": true,
       "http": 200
      }
@@ -967,11 +1082,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "verificado_em": "2026-11-24T02:59:09+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:09+00:00",
       "ok": true,
       "http": 200
      }
@@ -1003,7 +1123,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1013,6 +1133,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1047,7 +1172,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1057,6 +1182,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1097,7 +1227,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1107,6 +1237,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1138,7 +1273,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1148,6 +1283,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1181,11 +1321,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1218,7 +1363,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:11+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1228,6 +1373,11 @@
      },
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:11+00:00",
       "ok": true,
       "http": 200
      }
@@ -1259,7 +1409,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:11+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1269,6 +1419,11 @@
      },
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:11+00:00",
       "ok": true,
       "http": 200
      }
@@ -1302,7 +1457,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1312,6 +1467,11 @@
      },
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1343,7 +1503,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1353,6 +1513,11 @@
      },
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1384,7 +1549,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1394,6 +1559,11 @@
      },
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1425,11 +1595,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1469,7 +1644,7 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "verificado_em": "2026-11-24T02:59:11+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
@@ -1479,6 +1654,11 @@
      },
      {
       "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:11+00:00",
       "ok": true,
       "http": 200
      }
@@ -1512,11 +1692,16 @@
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T02:58:57+00:00",
+    "verificado_em": "2026-11-24T02:59:10+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T02:58:57+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:59:10+00:00",
       "ok": true,
       "http": 200
      }
@@ -1536,5 +1721,5 @@
   }
  ],
  "operador": "Taís Ramos (conta pessoal, uso didático)",
- "links_verificados_em": "2026-11-24T02:58:57+00:00"
+ "links_verificados_em": "2026-11-24T02:59:11+00:00"
 }
