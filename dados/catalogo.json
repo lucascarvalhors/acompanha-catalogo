@@ -1,15 +1,51 @@
 {
- "gerado_em": "2026-11-24T00:19:47+00:00",
+ "gerado_em": "2026-11-24T02:58:57+00:00",
  "fontes": [
   {
    "nome": "Cadastro manual",
    "tipo": "manual",
-   "itens": 20,
+   "itens": 37,
    "erro": null,
-   "lido_em": "2026-11-24T00:19:42+00:00"
+   "lido_em": "2026-11-24T02:58:51+00:00"
   }
  ],
  "itens": [
+  {
+   "id": "ca8d8a3d684e",
+   "titulo": "Aprendendo a aprender (em português)",
+   "url": "https://www.coursera.org/learn/aprender",
+   "descricao": "Curso em português, em ritmo livre, sobre técnicas de aprendizagem. Acesso gratuito, mas o certificado é pago.",
+   "carga_horaria": "2 semanas (cerca de 10 h/semana)",
+   "instituicao": "Coursera (Deep Teaching Solutions)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:52+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:52+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 15,
+     "nome": "Aprender continuamente",
+     "termos": [
+      "aprendizagem"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
   {
    "id": "cb55e77172bf",
    "titulo": "Aprender a empreender",
@@ -19,23 +55,37 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:53+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
    "sugestoes_robo": [
+    {
+     "competencia": 4,
+     "nome": "Inovar e empreender",
+     "termos": [
+      "empreender",
+      "empreendedor"
+     ],
+     "pontos": 3
+    },
     {
      "competencia": 10,
      "nome": "Orientação ao mercado",
@@ -64,23 +114,37 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "verificado_em": "2026-11-24T02:58:54+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:43+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
    "sugestoes_robo": [
+    {
+     "competencia": 6,
+     "nome": "Produtos e serviços de valor",
+     "termos": [
+      "atendimento",
+      "atendimento ao cliente"
+     ],
+     "pontos": 4
+    },
     {
      "competencia": 10,
      "nome": "Orientação ao mercado",
@@ -102,23 +166,100 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:54+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
-   "sugestoes_robo": []
+   "sugestoes_robo": [
+    {
+     "competencia": 7,
+     "nome": "Responsabilidade social",
+     "termos": [
+      "pessoas com deficiência",
+      "pcd",
+      "neurodiversidade",
+      "inclusivo"
+     ],
+     "pontos": 8
+    },
+    {
+     "competencia": 6,
+     "nome": "Produtos e serviços de valor",
+     "termos": [
+      "atendimento"
+     ],
+     "pontos": 3
+    }
+   ]
+  },
+  {
+   "id": "c2ee55cc4ff0",
+   "titulo": "Avaliação em Processos de Aprendizagem e Modelos de Feedback",
+   "url": "https://www.escolavirtual.gov.br/cursos/avaliacao-em-processos-de-aprendizagem-e-modelos-de-feedback",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Enap) sobre metodologias ativas e modelos de feedback aplicados à avaliação da aprendizagem. Público-alvo: educadores. Certificado EV.G.",
+   "carga_horaria": "30 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:52+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:52+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 14,
+     "nome": "Comunicação",
+     "termos": [
+      "feedback"
+     ],
+     "pontos": 3
+    },
+    {
+     "competencia": 15,
+     "nome": "Aprender continuamente",
+     "termos": [
+      "aprendizagem"
+     ],
+     "pontos": 3
+    },
+    {
+     "competencia": 1,
+     "nome": "Projetar e otimizar sistemas",
+     "termos": [
+      "processos"
+     ],
+     "pontos": 2
+    }
+   ]
   },
   {
    "id": "b903571832d3",
@@ -129,17 +270,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:53+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:53+00:00",
       "ok": true,
       "http": 200
      }
@@ -157,6 +303,226 @@
    ]
   },
   {
+   "id": "1c71f97064e0",
+   "titulo": "Como elaborar um plano de negócio",
+   "url": "https://loja.sebrae.com.br/como-elaborar-um-plano-de-negocio-1-371440103447",
+   "descricao": "Curso online gratuito do Sebrae sobre como elaborar um plano de negócio para abrir ou expandir uma empresa.",
+   "carga_horaria": "2 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
+  },
+  {
+   "id": "24bd9808bfad",
+   "titulo": "Como produzir vídeos com celulares e tablets - Edição 2026",
+   "url": "https://lumina.ufrgs.br/course/view.php?id=635",
+   "descricao": "Curso básico e técnico da UFRGS sobre produção de vídeos com celulares e tablets, para desenvolver habilidades de comunicação. Sem tutoria.",
+   "carga_horaria": "",
+   "instituicao": "UFRGS - Lúmina",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 14,
+     "nome": "Comunicação",
+     "termos": [
+      "comunicação"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "e2c37109514a",
+   "titulo": "Como ter ideias criativas e inovar na prática?",
+   "url": "https://loja.sebrae.com.br/como-ter-ideias-criativas-e-inovar-na-pratica-1-372000025980",
+   "descricao": "Curso online gratuito do Sebrae sobre ferramentas criativas e aplicação prática para estimular a criatividade nos negócios. Certificado de participação.",
+   "carga_horaria": "1 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 4,
+     "nome": "Inovar e empreender",
+     "termos": [
+      "criatividade",
+      "inovar"
+     ],
+     "pontos": 3
+    }
+   ]
+  },
+  {
+   "id": "0af32eca1145",
+   "titulo": "Comunicação Assertiva: Oratória, Retórica e Técnicas de Apresentação",
+   "url": "https://www.escolavirtual.gov.br/cursos/comunicacao-assertiva-oratoria-retorica-e-tecnicas-de-apresentacao",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Receita Federal) sobre retórica e oratória, formulação de argumentos e comunicação escrita assertiva. Certificado EV.G.",
+   "carga_horaria": "50 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:52+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:52+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 14,
+     "nome": "Comunicação",
+     "termos": [
+      "comunicação",
+      "oratória",
+      "apresentação",
+      "escrita"
+     ],
+     "pontos": 9
+    }
+   ]
+  },
+  {
+   "id": "1b10adb60065",
+   "titulo": "Comunicação Empresarial",
+   "url": "https://www.ev.org.br/cursos/comunicacao-empresarial",
+   "descricao": "Curso gratuito sobre a importância de desenvolver a capacidade de se comunicar bem no ambiente profissional. Exige cadastro e tem prazo de 60 dias. Certificado com 70% na avaliação.",
+   "carga_horaria": "12 h",
+   "instituicao": "Fundação Bradesco (Escola Virtual)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 14,
+     "nome": "Comunicação",
+     "termos": [
+      "comunicação"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
+   "id": "c585a0b46140",
+   "titulo": "Comunicação Não Violenta",
+   "url": "https://www.escolavirtual.gov.br/cursos/comunicacao-nao-violenta",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Receita Federal) sobre comunicação empática e construtiva, para reduzir conflitos e fortalecer a colaboração em equipes. Certificado EV.G.",
+   "carga_horaria": "20 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 14,
+     "nome": "Comunicação",
+     "termos": [
+      "comunicação",
+      "comunicação não violenta"
+     ],
+     "pontos": 5
+    },
+    {
+     "competencia": 13,
+     "nome": "Liderança e equipe",
+     "termos": [
+      "conflitos"
+     ],
+     "pontos": 1
+    }
+   ]
+  },
+  {
    "id": "2f2b0e6cfdd7",
    "titulo": "Comunicação no processo de vendas para pequenos negócios",
    "url": "https://loja.sebrae.com.br/comunicac-o-no-processo-de-vendas-para-pequenos-negocios-1-372000053300",
@@ -165,17 +531,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
       "ok": true,
       "http": 200
      }
@@ -210,17 +581,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:54+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:54+00:00",
       "ok": true,
       "http": 200
      }
@@ -247,23 +623,36 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:43+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
    "sugestoes_robo": [
+    {
+     "competencia": 6,
+     "nome": "Produtos e serviços de valor",
+     "termos": [
+      "customer success"
+     ],
+     "pontos": 2
+    },
     {
      "competencia": 10,
      "nome": "Orientação ao mercado",
@@ -284,17 +673,22 @@
    "instituicao": "UFRGS - Lúmina (Faculdade de Educação)",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "verificado_em": "2026-11-24T02:58:54+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:54+00:00",
       "ok": true,
       "http": 200
      }
@@ -308,16 +702,172 @@
       "ambiental"
      ],
      "pontos": 3
-    },
-    {
-     "competencia": 11,
-     "nome": "Problemas da sociedade",
-     "termos": [
-      "extensão"
-     ],
-     "pontos": 1
     }
    ]
+  },
+  {
+   "id": "fdf4dd694ac2",
+   "titulo": "Entrepreneurship in Emerging Economies",
+   "url": "https://pll.harvard.edu/course/entrepreneurship-in-emerging-economies",
+   "descricao": "Curso em inglês sobre como empreendedorismo e inovação enfrentam problemas sociais complexos em economias emergentes. Auditoria gratuita, certificado pago (US$ 249). Ritmo livre.",
+   "carga_horaria": "3 a 5 h/semana",
+   "instituicao": "Harvard University (edX)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:53+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:53+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 4,
+     "nome": "Inovar e empreender",
+     "termos": [
+      "empreendedorismo",
+      "inovação"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
+   "id": "0ea754def5e7",
+   "titulo": "ESG para pequenas empresas",
+   "url": "https://loja.sebrae.com.br/esg-para-pequenas-empresas-1-372000054844",
+   "descricao": "Curso online gratuito do Sebrae, com solução prática para entender o modelo de gestão ESG em pequenas empresas.",
+   "carga_horaria": "15 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 8,
+     "nome": "Responsabilidade ambiental",
+     "termos": [
+      "esg"
+     ],
+     "pontos": 3
+    }
+   ]
+  },
+  {
+   "id": "7e278d509aa0",
+   "titulo": "Ética e Serviço Público",
+   "url": "https://www.escolavirtual.gov.br/cursos/etica-e-servico-publico",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Enap) sobre conceitos de ética, dilemas éticos, integridade e probidade, com foco no serviço público. Certificado EV.G.",
+   "carga_horaria": "20 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 12,
+     "nome": "Ética",
+     "termos": [
+      "ética",
+      "integridade"
+     ],
+     "pontos": 4
+    }
+   ]
+  },
+  {
+   "id": "8f4f8726f7b0",
+   "titulo": "Facilitação de Reuniões, Times e Workshops no Ambiente Online",
+   "url": "https://www.escolavirtual.gov.br/cursos/facilitacao-de-reunioes-times-e-workshops-no-ambiente-online",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Secretaria de Governo Digital) sobre como conduzir encontros online produtivos, colaborativos e bem estruturados. Certificado EV.G.",
+   "carga_horaria": "25 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
+  },
+  {
+   "id": "2845d25302d4",
+   "titulo": "Fluxo de caixa como ferramenta de gestão para o seu negócio",
+   "url": "https://ac.loja.sebrae.com.br/fluxo-de-caixa-como-ferramenta-de-gest-o-para-o-seu-negocio-1-302000001660",
+   "descricao": "Curso online gratuito do Sebrae sobre o fluxo de caixa como ferramenta de controle da movimentação financeira do negócio.",
+   "carga_horaria": "2 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:56+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": []
   },
   {
    "id": "f32f228969de",
@@ -328,17 +878,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "verificado_em": "2026-11-24T02:58:56+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:56+00:00",
       "ok": true,
       "http": 200
      }
@@ -364,17 +919,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:54+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:54+00:00",
       "ok": true,
       "http": 200
      }
@@ -393,6 +953,42 @@
    ]
   },
   {
+   "id": "222b57e567b8",
+   "titulo": "Habilidades de Resolução de Problemas",
+   "url": "https://www.escolavirtual.gov.br/cursos/habilidades-de-resolucao-de-problemas",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Columbia University) sobre pensamento analítico, tomada de decisões e implementação de soluções. Certificado EV.G.",
+   "carga_horaria": "25 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:54+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:54+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 1,
+     "nome": "Projetar e otimizar sistemas",
+     "termos": [
+      "resolução de problemas"
+     ],
+     "pontos": 2
+    }
+   ]
+  },
+  {
    "id": "45cbf1355f6d",
    "titulo": "Inovação e empreendedorismo em indústrias criativas - Edição 2026",
    "url": "https://lumina.ufrgs.br/course/view.php?id=639",
@@ -401,17 +997,22 @@
    "instituicao": "UFRGS - Lúmina (NECCULT)",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:43+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:43+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
       "ok": true,
       "http": 200
      }
@@ -423,9 +1024,11 @@
      "nome": "Inovar e empreender",
      "termos": [
       "empreendedorismo",
-      "inovação"
+      "inovação",
+      "empreender",
+      "empreendedor"
      ],
-     "pontos": 5
+     "pontos": 9
     }
    ]
   },
@@ -438,17 +1041,22 @@
    "instituicao": "UFRGS - Lúmina",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
       "ok": true,
       "http": 200
      }
@@ -463,6 +1071,14 @@
       "criatividade"
      ],
      "pontos": 7
+    },
+    {
+     "competencia": 11,
+     "nome": "Problemas da sociedade",
+     "termos": [
+      "mudança social"
+     ],
+     "pontos": 3
     }
    ]
   },
@@ -475,17 +1091,22 @@
    "instituicao": "UFRGS - Lúmina",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
       "ok": true,
       "http": 200
      }
@@ -511,23 +1132,76 @@
    "instituicao": "UFRGS - Lúmina",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
-   "sugestoes_robo": []
+   "sugestoes_robo": [
+    {
+     "competencia": 3,
+     "nome": "Matemática e estatística",
+     "termos": [
+      "cálculo",
+      "limites",
+      "funções"
+     ],
+     "pontos": 5
+    }
+   ]
+  },
+  {
+   "id": "735975cef068",
+   "titulo": "Liderança e Gestão de Equipes",
+   "url": "https://www.escolavirtual.gov.br/cursos/lideranca-e-gestao-de-equipes",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Receita Federal) sobre a essência da liderança, técnicas e abordagens para o trabalho em equipe e o clima organizacional. Certificado EV.G.",
+   "carga_horaria": "30 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 13,
+     "nome": "Liderança e equipe",
+     "termos": [
+      "liderança",
+      "trabalho em equipe"
+     ],
+     "pontos": 4
+    }
+   ]
   },
   {
    "id": "24c2921beea8",
@@ -538,23 +1212,37 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:46+00:00",
+    "verificado_em": "2026-11-24T02:58:56+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:46+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
-   "sugestoes_robo": []
+   "sugestoes_robo": [
+    {
+     "competencia": 13,
+     "nome": "Liderança e equipe",
+     "termos": [
+      "liderar"
+     ],
+     "pontos": 2
+    }
+   ]
   },
   {
    "id": "5458dff38225",
@@ -565,17 +1253,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:55+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:55+00:00",
       "ok": true,
       "http": 200
      }
@@ -603,17 +1296,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:45+00:00",
+    "verificado_em": "2026-11-24T02:58:56+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:45+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:56+00:00",
       "ok": true,
       "http": 200
      }
@@ -639,17 +1337,22 @@
    "instituicao": "Sebrae",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:46+00:00",
+    "verificado_em": "2026-11-24T02:58:56+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:46+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:56+00:00",
       "ok": true,
       "http": 200
      }
@@ -675,17 +1378,22 @@
    "instituicao": "UFRGS - Lúmina",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:45+00:00",
+    "verificado_em": "2026-11-24T02:58:56+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:45+00:00",
+      "ok": true,
+      "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:56+00:00",
       "ok": true,
       "http": 200
      }
@@ -693,12 +1401,56 @@
    },
    "sugestoes_robo": [
     {
-     "competencia": 11,
-     "nome": "Problemas da sociedade",
+     "competencia": 14,
+     "nome": "Comunicação",
      "termos": [
-      "extensão"
+      "apresentações"
      ],
      "pontos": 1
+    }
+   ]
+  },
+  {
+   "id": "b0180f6f0a89",
+   "titulo": "Soft Skills na Transformação Digital",
+   "url": "https://www.escolavirtual.gov.br/cursos/soft-skills-na-transformacao-digital",
+   "descricao": "Curso gratuito da Escola Virtual de Governo (conteúdo da Secretaria de Governo Digital) sobre competências no trabalho digital e a atitude de aprendizado contínuo. Certificado EV.G.",
+   "carga_horaria": "25 h",
+   "instituicao": "Escola Virtual de Governo (EV.G/Enap)",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:55+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:55+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 5,
+     "nome": "Novas tecnologias",
+     "termos": [
+      "transformação digital"
+     ],
+     "pontos": 2
+    },
+    {
+     "competencia": 13,
+     "nome": "Liderança e equipe",
+     "termos": [
+      "soft skills"
+     ],
+     "pontos": 2
     }
    ]
   },
@@ -711,25 +1463,78 @@
    "instituicao": "UFRGS - Lúmina",
    "fonte": "Cadastro manual",
    "primeira_coleta": "2026-11-24T00:19:42+00:00",
-   "ultima_vez_na_fonte": "2026-11-24T00:19:42+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
    "ausente_da_fonte": false,
    "link": {
     "estado": "ativo",
     "http": 200,
     "erro": null,
-    "verificado_em": "2026-11-24T00:19:44+00:00",
+    "verificado_em": "2026-11-24T02:58:56+00:00",
     "falhas_seguidas": 0,
     "historico": [
      {
       "em": "2026-11-24T00:19:44+00:00",
       "ok": true,
       "http": 200
+     },
+     {
+      "em": "2026-11-24T02:58:56+00:00",
+      "ok": true,
+      "http": 200
      }
     ]
    },
-   "sugestoes_robo": []
+   "sugestoes_robo": [
+    {
+     "competencia": 3,
+     "nome": "Matemática e estatística",
+     "termos": [
+      "dados",
+      "tratamento de dados",
+      "software r"
+     ],
+     "pontos": 6
+    }
+   ]
+  },
+  {
+   "id": "55f3ebfbc110",
+   "titulo": "Venda mais nas redes sociais",
+   "url": "https://ac.loja.sebrae.com.br/venda-mais-nas-redes-sociais-a0jbl000001euq1uae",
+   "descricao": "Curso online gratuito do Sebrae sobre como usar estratégia nas redes sociais para transformar publicações em vendas. Feito pelo WhatsApp e exige conta Sebrae. Certificado por módulo.",
+   "carga_horaria": "8 h",
+   "instituicao": "Sebrae",
+   "fonte": "Cadastro manual",
+   "primeira_coleta": "2026-11-24T02:58:51+00:00",
+   "ultima_vez_na_fonte": "2026-11-24T02:58:51+00:00",
+   "ausente_da_fonte": false,
+   "link": {
+    "estado": "ativo",
+    "http": 200,
+    "erro": null,
+    "verificado_em": "2026-11-24T02:58:57+00:00",
+    "falhas_seguidas": 0,
+    "historico": [
+     {
+      "em": "2026-11-24T02:58:57+00:00",
+      "ok": true,
+      "http": 200
+     }
+    ]
+   },
+   "sugestoes_robo": [
+    {
+     "competencia": 10,
+     "nome": "Orientação ao mercado",
+     "termos": [
+      "vendas",
+      "estratégia"
+     ],
+     "pontos": 2
+    }
+   ]
   }
  ],
  "operador": "Taís Ramos (conta pessoal, uso didático)",
- "links_verificados_em": "2026-11-24T00:19:46+00:00"
+ "links_verificados_em": "2026-11-24T02:58:57+00:00"
 }
